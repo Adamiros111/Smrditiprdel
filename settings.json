@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bolshevikjegoat.aternos.me",
+    "ip": "bolshevikjegoat.aternos.me:22019",
     "port": 22019,
     "version": "",
     "try-creative": false
